@@ -1,6 +1,6 @@
 # General process for the development of a Data Science project
 
-```diff **---------- Pre-Procesamiento: ----------** </h2> ```
+$${\color{red}Red}$$ **---------- Pre-Procesamiento: ----------** </h2>
 
 ### **1. Preparación de datos:**
 #### - Recolectar datos y almacenarlos en DataFrames (Pandas).
